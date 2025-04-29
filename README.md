@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md. Parves Zaman</h1>
-<h3 align="center">Sure! Here's a shortI'm a passionate Software Engineer with experience in full-stack development, problem-solving, and system design. I love building scalable, efficient solutions and continuously improving my skills through real-world projects and competitive programming.</h3>
+<h3 align="center">I'm a passionate Software Engineer with experience in full-stack development, problem-solving, and system design. I love building scalable, efficient solutions and continuously improving my skills through real-world projects and competitive programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-parves-zaman&label=Profile%20views&color=0e75b6&style=flat" alt="md-parves-zaman" /> </p>
 
